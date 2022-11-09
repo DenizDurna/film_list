@@ -15,15 +15,8 @@
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- Pure js
+- Boostrap 
 
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- font-awesome icons import
-- google fonts import 
+Note:
+Ready-made design was used since it focused on Javascript.
